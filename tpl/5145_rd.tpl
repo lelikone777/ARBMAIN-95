@@ -109,6 +109,7 @@
             max-width: 160px;
             width: 100%;
             margin: 0 auto;
+            padding-top: 10vh;
         }
 
         .container {
